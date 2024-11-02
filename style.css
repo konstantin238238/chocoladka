@@ -1,0 +1,60 @@
+header{
+    background-color: chocolate;
+    padding-top: 300px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.h{
+    background-color: rgb(229, 255, 79);
+    font-size: 200px;
+    text-align: center;
+    padding-top: 200px;
+}
+iframe {
+    margin-top: 150px;
+}
+main{
+    background-color: rgb(229, 255, 79);
+}
+footer{
+    
+    background: linear-gradient( to bottom, rgb(229, 255, 79),chocolate );
+    display: flex;
+}
+.logo{
+    background-size: 200px;
+    background-image: url("pngwing.com.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 100px;
+    padding-left: 200px;
+
+}
+.folga{
+    background-color: rgb(219, 219, 219);
+    padding-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.whatsapp{
+    height: 70px;
+    width: 70px;
+}
+
+ul {
+    list-style: none;
+}
+.telegram{
+    height: 70px;
+}
+.vk{
+    height: 70px;
+}
+.shk{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+
+
